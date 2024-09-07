@@ -1,0 +1,339 @@
+In the tens of thousands of interviews KLAS conducts with healthcare providers on an annual basis, new companies or solutions 
+are sometimes revealed as taking new or innovative approaches to solving some of the problems faced in healthcare today. 
+This report shares the top-of-mind companies that surfaced during our emerging technology research interviews with provider 
+organizations across the country in 2018; KLAS will continue to monitor those companies that continue to pique provider interest.
+EMERGING HCIT COMPANIES 2019
+INNOVATIVE APPROACHES TO TACKLING HEALTHCARE™S PROBLEMS
+Honorable MentionsAceso Interactive 
+ Patient Engagement
+Altruista Health  Payer Solutions
+HealthLoop  Patient Engagement
+Keet 
+ Patient Engagement
+Keona Health
+ IT ManagementLivongo
+ Analytics/Business IntelligenceMedHOK Payer Solutions 
+Mobile Heartbeat Secure CommunicationsNobl  Physician Experience
+RightPatient 
+ Patient Intake Management
+RubiconMD 
+ Physician Experience
+Xealth 
+ Patient Engagement
+XSOLIS  Analytics/Business IntelligenceCompanies with 2 MentionsMarket Segment
+The following companies have been reported 
+by various healthcare providers for the past 
+two years as being new or innovative.
+Year-Over-Year ComparisonAgileMDKyruus
+Augmedix
+HealthLoopHerald Health
+Innovaccer
+JvionOlive
+PatientPing
+ProtenusScribe AmericaVivify Health
+Xealth
+Patient Engagement
+Imaging428Secure CommunicationsPatient Experience
+93Patient Intake Management
+EMR/PM39Physician Experience
+Payer Solutions
+224IT ManagementRevenue Cycle
+318Analytics/Business IntelligenceVirtual Care289Cybersecurity
+Precision Medicine93Companies with Multiple Provider MentionsNumber of MentionsNumber of MentionsNumber of MentionsMarket Segment
+SailPoint Technologies
+CybersecurityOlive
+Physician ExperienceInnovaccer
+Analytics/Business IntelligenceCareOperative 
+(Healthcare Bluebook)Revenue CycleSukiPhysician ExperiencePatient Ping
+Analytics/Business IntelligenceInteliChartPatient EngagementHealthEdgeRevenue CycleHot Segments | Number of providers who mentioned new Blockchain, equipment tracking, medical devices, and reputation management
+Consulting, credentialing, and customer service managementREPORTS 2019
+This material is copyrighted. Any organization gaining unauthorized access to this report will be liable to compensate KLAS for the full retail price. 
+Please see the KLAS DATA USE POLICY for information regarding use of this report. 
+© 2019 KLAS Enterprises, LLC. All Rights Reserved.
+Year Founded
+SegmentWebsite
+Year Founded
+SegmentWebsite
+7 Medical Systems
+Aceso Interactive
+AlienVault
+BeeWell
+CancerIQClarify Health Solutions
+EASE Applications
+Hashed Health
+AgileMDAugmedix
+
+CareOperative
+ConsenSys
+drawMD
+Grand Rounds
+Client OutlookDocent Health
+FlywireHealthEdgeAltruista Health
+Bridge
+Canvas Medical
+Claro Healthcare
+Diagnotes
+
+Healthcare Recovery 
+SolutionsAlgorex Health
+Aver
+Cake
+Citus HealthCoverMyMeds
+Duo
+GreenLightCloudPost
+Doxy.me
+GozioHealthLoop20052009200720152013201520132016201120122011200720142008201220062015200920042017200720122015201720102016201220172010201720172008200920142015201320132009Imaging
+Patient 
+EngagementCybersecurity
+Patient 
+EngagementPrecision MedicineAnalytics/BISecure CommunicationBlockchain
+Physician 
+ExperiencePhysician 
+ExperienceMedical Devices
+Revenue Cycle
+Blockchain
+Physician 
+ExperienceVirtual CareImaging
+Secure CommunicationRevenue Cycle
+Revenue Cycle
+Analytics/BIPayer Solutions
+Patient 
+EngagementEMR/PMEMR/PMSecure CommunicationPatient 
+EngagementVirtual CareAnalytics/BIRevenue Cycle
+Patient 
+EngagementPatient 
+EngagementRevenue Cycle
+Cybersecurity
+Patient Intake
+Cybersecurity
+Virtual CareEquipment Tracking
+Patient 
+Engagementwww.7medical.com
+www.aceso.com
+www.alienvault.com
+www.beewell.health
+www.canceriq.com
+www.clarifyhealth.com
+www.easeapplications.com
+www.hashedhealth.com
+www.agilemd.com
+www.augmedix.com
+
+www.healthcarebluebook.com
+www.consensys.net
+www.drawmd.com
+www.grandrounds.com
+www.clientoutlook.com
+www.docenthealth.com
+
+www.healthedge.com
+
+www.altruistahealth.com
+www.bridgepatientportal.com
+www.canvasmedical.com
+www.clarohealthcare.com
+www.diagnotes.com
+
+www.hrs-recovery.com
+www.algorexhealth.com
+www.aver.io
+www.joincake.com
+www.citushealth.com
+www.covermymeds.com
+www.duo.com
+www.greenlight.md
+www.cloudpostnetworks.com
+www.doxy.me
+www.goziohealth.com
+www.healthloop.com
+MedStreamingNoblPatientBond
+Mytonomy
+openDoctor
+Mobile Heartbeat
+NowPow
+Patient PAL
+Mile 5 AnalyticsNovuHealth
+Patientco
+NextGatepar8oMoving Analytics
+Olive
+200620142012201120112010201520172017201020082005201120132012Imaging
+Physician 
+ExperienceSecure CommunicationPatient 
+EngagementPatient Experience
+Secure CommunicationAnalytics/BIPatient 
+EngagementAnalytics/BIAnalytics/BIRevenue Cycle
+Analytics/BIPhysician 
+ExperiencePatient 
+EngagementPhysician 
+Experiencewww.medstreaming.com
+www.noblhealth.com
+www.patientbond.com
+www.mytonomy.com
+www.opendr.com
+www.mobileheartbeat.com
+www.nowpow.com
+www.patientpal.org
+www.mile5analytics.com
+www.novu.com
+www.patientco.com
+www.nextgate.com
+learn.par8o.com
+HealthReveal
+HelixInnovaccer
+Keet
+L Squared Healthcare 
+Technologies
+MD Revolution
+HPE SimpliVity
+Iodine Software
+Koan Health
+Locus Health
+MedpodMedHOKHerald Health
+InteliChartKeona Health
+Livongo
+MedaxionIMAT Solutions
+JvionKyruus
+MacPractice
+MedSpoke
+Medlytix20152015201220152014201120082013201220132013201020152006201020142008201220112010200420152006Analytics/BIPrecision MedicineAnalytics/BIPatient 
+EngagementPrecision MedicinePatient 
+EngagementIT ManagementPhysician 
+ExperienceAnalytics/BIVirtual CareVirtual CarePayer Solutions
+Analytics/BIPatient 
+EngagementIT ManagementAnalytics/BIPhysician 
+ExperienceAnalytics/BIAnalytics/BIPatient 
+EngagementEMR/PMCredentialingRevenue Cycle
+www.healthreveal.com
+www.helix.com
+www.innovaccer.com
+www.keethealth.com
+www.lsquaredhealthcare.com
+www.mdrevolution.com
+www.hpe.com
+www.iodinesoftware.com
+www.koanhealth.com
+www.locushealth.com
+www.medpodhealth.com
+www.medhok.com
+www.heraldhealth.com/
+www.intelichart.com
+www.keonahealth.com
+www.livongo.com
+www.medaxion.com
+www.imatsolutions.com
+www.jvion.com
+www.kyruus.com
+www.macpractice.com
+www.medspoke.com
+www.medlytix.com
+www.movinganalytics.com
+www.oliveai.com
+PatientPing
+PatientTrak
+ProtenusPropeller Health
+SecureVideoRubiconMD
+Regroup
+Saykara
+Qventus
+Shift AdminSailPoint Technologies
+Revel
+Scale ComputingQuant HCServiceNowSafety Net Connect
+RepuGen
+SBR Health
+Rally Health
+Saviynt
+RightPatient
+ScribeAmerica20132006201420102013201220132011201520122008200520062007201220042007201620102010201020112004Analytics/BIReputation 
+ManagementCybersecurity
+Patient 
+EngagementPatient Experience
+Virtual CarePhysician 
+ExperienceSecure CommunicationPhysician 
+ExperienceAnalytics/BIPhysician 
+ExperienceCybersecurity
+Patient 
+EngagementVirtual CareAnalytics/BICustomer Service ManagementPhysician 
+ExperienceReputation 
+ManagementVirtual CarePatient 
+EngagementCybersecurity
+Patient Intake
+Physician 
+Experiencewww.patientping.com
+www.patienttrak.net
+www.protenus.com
+www.propellerhealth.com
+
+www.securevideo.com
+www.rubiconmd.com
+www.regrouptelehealth.com
+www.saykara.com
+www.qventus.com
+www.shiftadmin.com
+www.sailpoint.com
+www.revel-health.com
+www.scalecomputing.com
+www.quanthc.com
+www.servicenow.com
+www.safetynetconnect.com
+www.repugen.com
+www.sbrhealth.com
+www.rallyhealth.com
+www.saviynt.com
+www.rightpatient.com
+www.scribeamerica.com
+Valant
+Xealth
+Soleran
+VitreosHealthTanium
+VidiStarZocdoc
+Spaulding MedicalWELL Health
+SMART Health IT
+TimelinePIUpdox
+Vatica Health
+XsolisSondhi SolutionsVivify Health
+Simplify Healthcare
+Telexy Healthcare
+VisitPay
+ShiftWizardZOTT
+SukiWellbe
+SMRxTTytoCare
+2005201620042009201020072004200720072015unknown201520082011201220092009200820102012200720172017200920102011EMR/PMPatient 
+EngagementEquipment Tracking
+Analytics/BIRevenue Cycle
+Cybersecurity
+Imaging
+Patient 
+EngagementMedical Devices
+Secure CommunicationAnalytics/BIAnalytics/BISecure CommunicationAnalytics/BIAnalytics/BIConsultingVirtual CareRevenue Cycle
+Imaging
+Revenue Cycle
+Physician 
+ExperiencePatient Experience
+Physician 
+ExperienceEMR/PMPatient 
+EngagementVirtual Carewww.valant.com
+www.xealth.io
+www.soleran.com
+www.vitreoshealth.com
+www.simplee.com
+www.tanium.com
+www.vidistar.com
+www.zocdoc.com
+www.spauldingmedical.com
+www.wellapp.com
+www.smarthealthit.org
+www.timelinepi.com
+www.updox.com
+www.vaticahealth.com
+www.xsolis.com
+www.sondhisolutions.com
+www.vivifyhealth.com
+www.simplifyhealthcare.com
+www.telexy.com
+www.visitpay.com
+www.shiftwizard.com
+info.zott.tv
+www.suki.ai
+www.wellbe.me
+www.smrxt.com
+www.tytocare.com

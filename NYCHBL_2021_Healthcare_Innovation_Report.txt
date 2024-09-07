@@ -1,0 +1,3114 @@
+1 Healthcare 
+ Innovation 
+ REPORT
+2021
+NEW YORK 
+2Table of Contents
+3 Introduction
+4 Contributors
+6 5 Top Take-aways from 2020
+7 2020 By the Numbers
+10 Funding in 2020: Top 25
+12 5 Early-Stage Investors to Know
+15 Why We Love New Y
+ork16 Building Community 
+18 Powering through COVID
+20 NYC Digital Health 100
+22 What Are Your 
+Super Powers?
+24 Health Equity
+26 Mental Health 
+29 Healthcare Regulatory: What™
+s in 
+Store for 2021?
+ 30 Therapeutics & Diagnostics
+32 Healthcare SPACs
+34 Where Will the 
+Money Flow Next?
+36 On the Frontlines
+38 The Last Word
+39 Team and Methodology
+FOLLOW US
+3But 2020 was also ˜lled with resiliency, compassion, 
+and collaboration. Many companies in our healthcare 
+ecosystem took actionŠdoubling down, pivoting, 
+acceleratingŠtackling the immediate challenges 
+facing healthcare as well as their employees. 
+To better re˚ect these efforts, we™ve changed the 
+name of the annual publication from Healthcare 
+
+Venture Capital Report to Healthcare Innovation 
+Report. Because it™s not just about the funding, 
+ it™s also about what the entrepreneurs do with that 
+fundingŠhow they™re driving change, improving 
+access, upgrading processes, and impacting lives. 
+This year, more than ever, we needed action and our 
+
+New York ﬁsquadﬂ stepped up and delivered. 
+As you™ll see throughout the report, the explosion 
+ of digital health in New York has been astounding. 
+ I remember attending the ˜rst-ever Health 2.0 
+conference in 2007 when digital health meant 
+online support groups, wisdom of the crowd, 
+ and blogging. Fourteen years later, technology is 
+embedded in everything we do. Much like digital 
+ ad agencies morphed into simply agencies, digital 
+health will become, simply, health. Technology 
+
+powers everythingŠit™s what we do with the tech that 
+
+matters. It™s exhilarating to see the range of ideas 
+and people excited about changing healthcare for 
+the better. 
+Thank you to our 50+ contributors for their incredible 
+insights. Congratulations to the 100 innovators 
+
+selected for the 2021 NYC Digital Health 100.  
+A special shout out to P˜zer for producing a vaccine 
+in record time and making us New York proud. 
+By the time we publish next year™s report, I hope we 
+will have seen each other again in person at one of 
+NYCHBL™s legendary events. 
+Last year our lives as New Yorkers changed 
+completely. As the city became the 
+
+pandemic™s epicenter, of˜ces shut down, 
+
+schools closed, and healthcare workers 
+
+became our heroes as they valiantly helped 
+
+patients battle COVID-19. In the spring and 
+
+summer, we confronted the issue of 
+
+systemic racism, which coincided with data 
+
+showing that the pandemic had impacted 
+
+Black and Brown communities at far 
+
+greater numbers than others. 
+BUNNY ELLERIN
+ Co-Founder & CEO,
+ NYC Health Business Leaders
+INTRODUCTION 
+4Adrianna Samaniego | 
+Investor 
+ FEMALE FOUNDERS FUND
+Alexander Bisignano | 
+Co-Founder & CEO 
+ PHOSPHORUS
+Alexis Gilroy | 
+Partner 
+ JONES DAY
+
+Annette Osher, MD | 
+Cardiologist
+ OSHER CCPHP
+
+April Koh | 
+Co-Founder & CEO 
+ SPRING HEALTH
+Arabia Mollette, MD | 
+Emergency Medicine Physician 
+BROOKDALE UNIVERSITY HOSPITAL 
+Ashok Subramanian | 
+Co-Founder & CEO 
+ CENTIVO
+
+Ben Gold, MD | 
+Cardiology Fellow 
+ MOUNT SINAI HEALTH SYSTEM 
+Brenton Fargnoli, MD | 
+Partner 
+ ALLEYCORP
+Carolyn Witte | 
+Co-Founder & CEO 
+ TIA
+Carrie SiuButt |
+ CEO 
+ SIMPLE HEALTH 
+
+Charles Boorady | 
+Managing Partner 
+ HEALTH CATALYST CAPITAL
+
+Ed Gaussen | 
+CEO
+ MANTRA HEALTH
+
+Emi Gal |
+ Co-Founder & CEO 
+ EZRA
+Faris Ghawi | 
+CEO 
+ 
+VYTALIZE HEALTH
+Gil Addo | 
+CEO 
+ RUBICONMD
+Gina Bartasi | 
+Founder & CEO 
+ KINDBODY
+Graham Brown | 
+Partner 
+ LERER HIPPEAU 
+
+Jannine Versi | 
+Co-Founder & COO 
+ ELEKTRA HEALTH
+Jean Drouin, MD | 
+CEO 
+ CLARIFY HEALTH
+Jennifer Hawks Bland | 
+CEO 
+ NEWYORKBIO
+ Jonas Grossman | 
+President 
+ 
+CHARDAN
+Joseph Habboushe, MD, MBA | 
+Co-Founder & CEO
+ MDCALC
+Jordan Nof | 
+Co-Founder & Managing Partner 
+ TUSK VENTURE PARTNERS
+Josh DeFonzo | 
+CEO 
+ LUX HEALTH TECH ACQUISITION CORP.
+Maria Gotsch | 
+President & CEO 
+ PARTNERSHIP FUND FOR NEW YORK CITY
+Mark Nathan | 
+Founder & CEO 
+ ZIPARI
+Matt McCambridge | 
+Co-Founder & CEO 
+ EDEN HEALTH
+Many Thanks to Our Contributors
+This is our largest group of contributors to date Š over 50 entrepreneurs, investors, 
+ clinicians, and thought leaders. Thank you for taking the time to share your insights, 
+ perspectives, and wisdom with us.
+Matthew Price | 
+Co-Founder & COO 
+ PHOSPLATIN THERAPEUTICS 
+Maureen Bennett | 
+Partner 
+ JONES DAY
+
+Michael Botta | 
+Co-Founder 
+ SESAME
+Michael Cunnion | 
+CEO 
+ REMEDY HEALTH MEDIA
+Michael Meng | 
+CEO
+ STELLAR HEALTH
+
+Misti Ushio, PhD | 
+CEO 
+ TARA BIOSYSTEMS 
+Nate Maslak | 
+Co-Founder & CEO 
+ RIBBON HEALTH
+Nicole Brown, MD, MPH | 
+Founder & 
+ Chief Health Of˜cer 
+ STRONG CHILDREN WELLNESS
+Nimi Katragadda | 
+Partner 
+ BOXGROUP
+Rajiv Shukla | 
+Chairman & CEO
+ ALPHA HEALTHCARE ACQUISITION CORP.
+Ravi N. Shah, MD, MBA | 
+Founding Director
+ COLUMBIA MIND VENTURES
+
+Ray Lorenzoni, MD | 
+Fellow, Pediatric Cardiology
+ CHILDREN™S HOSPITAL AT MONTEFIORE
+
+Reena Pande, MD | 
+Chief Medical Of˜cer 
+ ABLETO
+Rick Heitzmann | 
+Partner 
+ FIRSTMARK CAPITAL 
+Robert Accordino, MD, MSc | 
+ Chief Mental Health Of˜cer 
+ QUARTET
+Robert Fields, MD | 
+SVP & Chief Medical Of˜cer 
+ of Population Health 
+ MOUNT SINAI HEALTH SYSTEM
+Roshini Malaney, DO | 
+Cardiologist, Staten Island 
+University Hospital 
+ 
+NORTHWELL HEALTH
+Ryan Darnell | 
+Managing Partner 
+ MAX VENTURES
+
+Sarah Urke, PT | 
+Acute Care Physical Therapist 
+ NEWYORK-PRESBYTERIAN 
+
+Sherman Leung | 
+Medical Student, Icahn School 
+ of Medicine at Mount Sinai and Associate 
+ ALLEYCORP
+Sloan Gaon | 
+CEO 
+ PULSEPOINT
+Stacey Seltzer | 
+Partner 
+ AISLING CAPITAL
+
+Steven Gutentag | 
+Co-Founder & CEO 
+ THIRTY MADISON 
+Suzette Brown, MD, MPH
+  | Founder & COO 
+ STRONG CHILDREN WELLNESS
+Toyin Ajayi, MD | 
+Co-Founder & Chief Health Of˜cer 
+ CITYBLOCK HEALTH
+
+Violeta Michel, RN | 
+Pediatric Nurse, Navajo Nation
+ INDIAN HEALTH SERVICE
+Viral Patel, MD | 
+Founder & CEO 
+ RADISH HEALTH
+5CONTRIBUTORS CONTINUED >
+61 The funding never stopped.
+When the pandemic hit, many of us thought it would have a negative impact on 
+fundingŠinstead there was a 40% bump in funding over 2019Šincreasing from 
+
+$2.B to $3.6B! Digital health was the biggest recipient garnering 69% of the 
+
+dollars. The rounds got substantially larger: in 2019, only one company (Oscar) 
+
+raised over $100M; in 2020, Oscar was joined by four more: Cityblock Health, Ro, 
+Cedar and Medly. Another interesting ˜nding: seven of the 
+Top 25 companies
+ raised at least two rounds during the year. 
+2 Virtual care took center stage. 
+Investors poured $1.3B (about 35% of total funding) into virtual care, a re˚ection 
+of its starring role during the pandemic. Telehealth has been around for decades, 
+
+but in 2020, millions of patients experienced a video visit for the ˜rst time and 
+
+tens of thousands of once-resistant providers became converts. While it took a 
+
+pandemic to prod both groups to test it out, regulatory changes to payments 
+ and licensing closed the deal. Learn more about what™s ahead on the 
+regulatory 
+front
+ on 
+page 29
+. 3 Mental health came out of the shadows. 
+Mental health has been called the shadow pandemic of 2020 because the levels 
+of depression, anxiety and stress skyrocketed during COVID. As a result, new 
+
+approaches to mental health treatment have blossomed and become more widely 
+
+adopted. New York is at the heart of this movement and is quickly becoming the 
+
+center of digital mental health. Investors put $200M (about 5% of total funding) 
+into this vertical and we expect this area to expand. Learn more about the 
+mental 
+health start-ups
+ driving this growth on 
+page 26
+.4 Health Equity grabbed our attention. 
+New York™s Black and Brown communities were disproportionately affected by 
+
+coronavirus, highlighting disparities in care. A number of New York companies 
+ 
+are trying to address the imbalance, most notably Cityblock which took in $214M 
+
+in new funding. Discover more about the issues related to equity and potential 
+
+solutions necessary to close the gaps on 
+page 24
+.5 Therapeutics & Diagnostics hit the front page.
+PCR testing is the new normal, and mRNA technology has become a frequent 
+
+topic of discussion (at least among this crowd). New York life science companies 
+
+of all
+ sizes played an active role in addressing COVID-19, most notably P˜zer, but 
+smaller start-ups got in on the action, too. Take a closer look at a few of the 
+
+players on 
+page 30
+.5 TOP TAKE-AWAYS FROM 2020
+7QUARTER 4
+ $1,050M
+34 DEALS
+We™ve been tracking New York 
+health and life sciences funding 
+for four yearsŠand the growth 
+has been substantial. In 2020, 
+investment reached an all-time 
+high, and was a 40% increase 
+over 2019.
+2020 FUNDING BY QUARTER
+2020 BY THE NUMBERS
+# OF COMPANIES
+NYC HEALTHCARE INVESTMENT TRENDS
+2017
+2018
+2019
+2020 
+ 2500
+FUNDING
+2000
+1500
+1000
+500
+0125
+100
+755025
+0174
+117
+8379$700
+$1,900
+$2,600
+QUARTER 1
+QUARTER 2
+QUARTER 3
+ $660M
+$1,033M
+$818M
+FUNDING
+38 DEALS
+40 DEALS
+42 DEALS
+MILLIONS
+COMPANIES
+$3,600
+3000
+3500
+4000
+150
+175
+200
+COMPANIES 
+ RAISED 
+174
+$3.6B
+in funding in 2020
+8FUNDING BY DIGITAL SUB-SECTOR
+2020 BY THE NUMBERS
+FUNDING BY SECTOR: 2020 VS. 2019
+1020
+30400DIGITAL/
+ TECH-ENABLED
+LIFE 
+ SCIENCES
+DIAGNOSTICS
+2020
+2019
+$269M
+5060$156M
+6%7%% TOTAL
+22%
+13%
+52%
+1020
+304013%
+0DATA & 
+PLATFORMS
+INSURANCE & 
+PHARMACY
+VIRTUAL CARE
+5060PATIENT 
+ENGAGEMENT
+% TOTAL
+70$851M
+24%
+$1,352M
+52%
+$2,491M
+69%
+42%
+$1,092M
+$269M
+9MERGERS & ACQUISITIONS
+Company
+Acquired by
+Amount 
+(M)
+Bayer
+$225
+AptarGroup
+Undisclosed
+Press Ganey 
+Associates
+Undisclosed
+Lilly
+$1,040
+Lantheus Medical 
+Imaging
+$419
+The Menarini 
+Group (Italy)
+$677
+Thoma Bravo
+$500
+IngenioRx
+Undisclosed
+2020 BY THE NUMBERS
+FUNDING BY STAGE: 2020 VS. 2019
+2020
+73%
+Late Stage
+27%
+Early Stage
+2019
+53%
+Late Stage
+47%
+Early Stage
+Early stage includes pre-seed, seed and Series A. Late stage includes Series B and beyond.
+WE ENDED 2020 WITH A MAJORITY 
+RECAPITALIZATION BY THOMA BRAVO
+ and the simultaneous acquisition of HealthX. 
+With the new capital, we™ll be able to add many 
+
+product enhancements and continue to build a 
+
+world-class service organization. The HealthX 
+acquisition allows us to bring Zipari™s CX 
+Platform and market-leading products to an 
+
+additional 170 customers. 
+It™s been an 
+incredible ride from a start-up six years ago to 
+
+a valuation of over $500 million today...
+and I 
+feel like we™re still just getting started on our 
+
+mission to help health plans be more 
+
+consumer-centric. 
+MARK NATHAN 
+ Founder & CEO, Zipari
+10FUNDING IN 2020
+Top 25
+No.
+Company
+Description
+Funding 
+(M)
+Stage
+Select Investors
+1Health insurance company using 
+technology, design, and data to humanize 
+health care.
+$365
+*Late 
+stage
+Tiger Global Management, 
+
+Dragoneer, Baillie Gifford, Coatue, 
+
+Founders Fund, Khosla
+2Personalized primary care, behavioral 
+health care, and social services for 
+
+underserved urban populations. 
+$214
+*Late 
+stage
+Catalyst, Thrive Capital, Sidewalk 
+
+Labs, Town Hall Ventures, Maverick 
+
+Ventures, Redpoint Ventures
+3"The patient company" offering 3 digital 
+health clinics: Roman (men), Rory 
+
+(women), and Zero (smoking cessation).
+$200
+Late 
+stage
+General Catalyst, FirstMark Capital, 
+
+BoxGroup, 3L Capital, Tusk Venture 
+
+Partners, SignalFire, Torch Capital
+4Biotech developing genetic medicines for 
+those affected by rare, devastating 
+
+neurological diseases.
+$115
+Late 
+stage
+Cormorant Asset Management, 
+
+EcoR1 Capital, Samsara BioCapital, 
+
+Redmile Group 
+5Biotech dedicated to unlocking the 
+therapeutic potential of the gut-brain axis. 
+$112
+Late 
+stage
+Alexa
+ndria
+ Ventu
+re
+ Investments,
+ Lux
+ Capital, Polaris Partners, Casdin Capital,Two Sigma Ventures6Biotech developing next-generation, fully 
+personalized engineered T cells therapies 
+
+for broad spectrum of cancers.
+$110
+Early 
+stage
+EcoR1 Capital, Jeito Capital, 
+
+Syncona, Vida Ventures, TPG
+7Patient payment and engagement 
+platform for hospitals, health systems and 
+
+medical groups.
+$102
+Late 
+stage
+Andreessen Horowitz (a16z), Kaiser 
+
+Permanente Ventures, Kinnevik, 
+
+Thrive Capital, Lakestar, Founders 
+
+Fund
+8Biotech addressing unmet needs in 
+
+diseases linked to chronic in˚ammation 
+
+including cancer, cardiovascular disease 
+
+and arthritis.
+$100
+Late 
+stage
+Rock Springs Capital, T. Rowe Price 
+
+Associates, Cormorant Asset 
+
+Management LP, Janus Henderson 
+
+Investors
+8Full-service, digital pharmacy offering free 
+same-day prescription delivery. 
+$100
+Late 
+stage
+Volition Capital, Greycroft, Horsley 
+
+Bridge, Lerer Hippeau
+10Comprehensive behavioral health solution 
+for employers.
+$98
+*Early and 
+Late 
+stages
+Tiger Global, Northzone, Operator 
+Partners, GingerBread Capital, 
+
+Equinox Ventures, Able Partners
+10Precision medicine biotech developing 
+drugs to inhibit speci˜c alterations identi˜ed 
+via genomic testing.
+$98
+*Early and 
+Late 
+stages
+venBio Partners, Cormorant Asset 
+
+Management, Aisling Capital, 
+
+Samsara Biocapital, Janus 
+
+Henderson
+*7 companies raised multiple rounds during 2020.
+The Funding number re˚ects total raised during the year.
+11No.
+Company
+Description
+Funding 
+(M)
+Stage
+Select Investors
+12
+Digital care covering primary care, anxiety 
+and depression.
+$90
+*Late 
+stage
+Valor Equity Partners, Marcy Venture 
+
+Partners, 14W, Mangrove Capital 
+
+Partners, Lerer Hippeau, Primary 
+
+Venture Partners
+13Home lab testing and clinical services.
+$71
+Late 
+stage
+Illumina Ventures,HLM Venture Partners,
+ Deer˜eld
+ M
+anagement,
+ Transformation
+ Capita
+l,
+ Optum
+ Ventures
+ 13On-demand, live insights to accelerate 
+
+discovery and development of therapies.
+$71
+*Early and 
+Late 
+stages
+IVP, Menlo Ventures, Lux Capital, 
+
+Transformation Capital, Lead Edge 
+
+Capital
+15Next generation CRISPR company.
+$61
+Late 
+stage
+AnGes, OrbiMed, Takeda Ventures
+16Teeth alignment technology.
+$54
+Early 
+stage
+Greycroft Partners, Gaingels 
+
+Syndicate, Bessemer Venture 
+
+Partners, Redesign Health, Riverpark 
+
+Ventures
+17Mobile-health platform and device for self 
+physical examination,and remote 
+
+diagnosis.
+$50
+Late 
+stage
+Qualcomm Ventures, West Fountain 
+
+Global Fund, Insight Partners, Olive 
+
+Tree Ventures
+18Virtual care and treatments for chronic 
+conditions: Keeps (hair loss), Cove 
+
+(migraine) and Evens (acid re˚ux).
+$47
+Late 
+stage
+Polaris Partners, Gaingels Syndicate, 
+
+J&J Innovation, Maveron, Northzone 
+
+Ventures
+19On-demand healthcare and modern 
+family bene˜ts for women and families.
+$45
+Late 
+stage
+Spring Mountain Capital, 14W, 
+
+Sequoia Capital, Oak HC/FT, 
+ Female Founders Fund
+20
+Dental clinic intended to improve dental 
+visit and wellness experience.
+$37
+Late 
+stage
+GV, Redpoint Ventures, Juxtapose, 
+
+Zigg Capital, Tusk Venture Partners, 
+
+Tiger Global Management
+21Products for health insurance plans to 
+improve consumer digital experience.
+$36.5
+*Late 
+stage
+Vertical Venture Partners, Health 
+
+Velocity Capital, HealthWorx, BCBS 
+
+of NJ
+22Mobile computing and data science 
+to transform the lives of people 
+ 
+with diabetes.
+$35
+Late 
+stage
+Bayer,Brighter Capital, Innova 
+
+Capital Partners, FJ Labs, RRE 
+
+Ventures, BoxGroup
+23
+Digital health plan for self-funded 
+employers. 
+$34
+Late 
+stage
+B Capital Group, De˜ne Ventures, 
+
+HarbourVest, Nassau Street 
+
+Ventures, Bain Capital Ventures, 
+
+F-Prime Capital Partners
+24Virtual care companion that provides a 
+personalized, connected care experience.
+$33
+Late 
+stage
+Health Catalyst Capital, Horizon 
+
+BCBS of NJ, Goodwater Capital, 
+
+Three Fields Capital, Lux Capital
+25
+Fertility, gynecology, and wellness services 
+in modern, tech-enabled clinics.
+$32
+Late 
+stage
+Perceptive Advisors, RRE, GV, 
+
+Freemark Capital, Rock Springs 
+
+Capital
+FUNDING IN 2020: 
+TOP 25
+125 EARLY-STAGE 
+ Investors 
+to Know
+Visionaries see potential and take risksŠthey™re the lifeblood 
+of start-ups. Even during a dif˜cult year, early-stage 
+
+investors have continued to ˜nd, fund and incubate some of 
+
+healthcare™s most exciting companies. Meet ˜ve investors 
+
+making an impact in New York™s venture community.
+Why early?
+I think it™s important to be comfortable with what 
+early stage really meansŠmore questions than 
+answers, more vision than product, more ideas 
+
+than dataŠand to me it™s the most personally 
+
+gratifying stage because investors and founders 
+are able to build a really unique relationship 
+(ideally a trusted friendship) by being there from 
+
+the beginning. We love meeting founders early, 
+even when it™s just people and an idea. We™ve 
+been very consistent in our strategy, which is 
+
+laser-focused on the early stage. 
+Why healthcare?
+Initially we were less focused as a fund on 
+
+healthcare because it seemed specialized. Our 
+
+deep friendships and relationships led us to our 
+
+˜rst healthcare investments: Flatiron Health and 
+PillPack. Now about 25% of the fund™s focus is 
+
+healthcare, and much more as a percentage of 
+mind share. As a generalist investor, I love the 
+
+deeply mission oriented nature of healthcare 
+
+companies and we™re excited to continue invest in 
+
+companies that help unlock better healthcare 
+
+access for all.
+Advice for founders pitching you?
+Make it a conversation and articulate the pain point 
+
+clearly. A concept that we like is ﬁfounder/market 
+
+˜t.ﬂ Why are you uniquely positioned to tackle this 
+
+problem? And why did you choose it? How do you 
+
+see the market differently than others? Why are you 
+going to spend the next 10 years focused on this? 
+What™s your unfair advantage? Those are some of 
+
+the ﬁhowﬂ and ﬁwhyﬂ questions that we ˜nd most 
+
+compelling in a pitch.
+NIMI KATRAGADDA 
+ Partner, BoxGroup
+NY healthcare investments:
+  Alma, Blink Health, Clover, 
+ Garner Health, K Health, Level, 
+Maven Clinic, Oscar, Ribbon 
+Health, Ro, Tomorrow Health
+Where should healthcare 
+ entrepreneurs focus?
+There are two big challenges for healthcare start-ups to tackle. 
+First: How do you keep a healthy population from becoming 
+
+sick? Second: How do you manage chronic care conditions more 
+
+ef˜ciently, knowing they generate 80-90% of total healthcare 
+
+costs? There™s plenty of room for innovation in both areas. 
+Prevention is growingŠAI will enable better early detection and 
+diagnosis. Technology can make a major impact in the chronic 
+
+population with telehealth, pharmacy, remote patient monitoring 
+
+and ef˜ciency of payments. 
+Give us an example from your portfolio.
+Managing medications for your entire life is complex and involves 
+
+addressing multiple conditions. Medly offers a fundamentally 
+
+better pharmacy experience by using data more effectively and 
+
+enabling more personalized plans. Plus they deliver, eliminating 
+
+the need to visit a brick-and-mortar store. We think Medly is 
+going to be one of the leaders in managing chronic conditions 
+and specialty medicine.
+What impact did COVID have on 
+ the space?
+Digital penetration and telehealth have clearly accelerated across 
+
+the board. That whole world has been pulled forward very rapidly, 
+
+with an acceleration in adoption and TAM that has exploded. In 
+
+the long run, though, regulation will also be a big factor in how 
+
+these trends play out. What happens with reimbursements 
+across the board going forward is very important, especially for 
+telehealth. Cross-state licensing is another unknown. Some 
+
+restrictions were loosened due to COVID, but we don™t know if 
+
+those will come back. 
+GRAHAM BROWN 
+Partner, Lerer Hippeau
+NY healthcare investments: 
+Heartbeat Health, K Health, 
+Klara, Medly Pharmacy, 
+Monument, Opentrons, Oscar, 
+Thrive Global
+13What should we know about AlleyCorp?
+AlleyCorp founds and funds early-stage companies in 
+New York. Founded by long-time entrepreneur, Kevin Ryan, 
+
+AlleyCorp is unique in structureŠwe do not have LPs, 
+ 
+we often launch companies as co-founders, we gravitate 
+
+toward investing in ˜rst-time founders, and we focus on 
+NYC. Some of the later stage New York companies 
+AlleyCorp has originated include MongoDB, Gilt, 
+
+BusinessInsider, Zola, and Nomad Health, and we 
+ continue to co-found new companies each year.
+What investments did you make 
+ in 2020? 
+Although AlleyCorp is industry-agnostic, we placed a 
+
+much greater emphasis on healthcare in 2020 than in 
+
+years past. Within healthcare, we made 10 early-stage 
+
+investments in 2020 in digital health broadly, with a 
+
+speci˜c focus around value-based care delivery, digital 
+therapeutics, and data infrastructure. These investments 
+ranged from $1M-$2M, the majority were in NYC, and a 
+
+few were incubations which we started from scratch. 
+Why the laser focus on NYC? 
+A core part of AlleyCorp™s mission since its founding 
+ over a decade ago has been to grow entrepreneurship 
+ in NYC. The diversity of talent, breadth of industry 
+
+representation, and strength of creative thinking here 
+ is unrivaled. We™ve developed a robust ecosystem to 
+support ˜rst-time founders and early-stage company 
+growth in NYC and continue to be very excited about the 
+
+future of innovation here.
+BRENTON FARGNOLI, MD
+ Partner, AlleyCorp
+NY healthcare investments:
+ Affect 
+Therapeutics, Diana Health, Nomad 
+Health, Pearl Health, Reside Health, 
+Tempest, and Voya Health
+What is your fund™s philosophy?
+We believe in female founders and have created 
+a portfolio of 100% female founders. Today 
+
+women account for less than 2% of venture 
+
+˜nancing, but we know there will be many 
+
+billion-dollar companies built by women. 
+And why healthcare?
+We™re generalists but have a thematic approach: 
+
+B2B, healthcare, ˜ntech, and seed stage. We 
+
+were early in seeing that women™s health should 
+
+not be described as a niche area. We invested in 
+
+Maven Clinic and became aware of the critical 
+need for speci˜c solutions in women™s health. 
+After Maven Clinic, we were early investors in 
+
+other category-de˜ning health companies such 
+
+as Shine (wellness), Real (mental health) and Oula 
+
+(maternal health).
+Tell us more about Oula.
+Oula is a modern birthing clinic in Brooklyn 
+ 
+using a collaborative approach. Eighty percent 
+ 
+of births in the US are low-risk and don™t need 
+ 
+to be in a hospital. We are also paying attention 
+
+to the growing disparities in Black and Latino 
+communities. When you look at outcomes for 
+Black women, the maternal mortality rate is high. 
+
+Oula is looking at ways to use technologies to 
+
+connect culturally savvy clinicians with 
+
+underserved populations. 
+ADRIANNA SAMANIEGO 
+Investor, Female Founders Fund
+NY healthcare investments: 
+Kensho, 
+Maven Clinic, Oula, Real, Shine, 
+Tempest, Thrive Global
+Investors 
+to Know
+What differentiates Tusk?
+We sit at the nexus of technology, politics, and regulation. From our point of view, many of healthcare™s problems 
+stem from misaligned incentives resulting from antiquated regulations and reimbursement rates. So we focus on 
+
+investing in companies that are operating in highly regulated markets or creating new business models where no 
+
+regulatory frameworks exist today. 
+An example of a company breaking the mold?
+Ro, because it™s more than just a DTC product companyŠit™s a vertically integrated new type of healthcare system. 
+
+Though they started with conditions like E.D. (erectile dysfunction) and hair loss, they are quickly moving into 
+
+managing chronic conditions like diabetes and thyroid issues. Ro is using telehealth and other technologies to 
+
+manage patients more ef˜ciently within a safer and more convenient environment.
+What about health disparities?
+Technology™s largest bene˜t to the market often is transparency. Zip code by zip code you can see what COVID™s 
+
+infection rates have been. It™s apparent that this has been a tale of two pandemicsŠthe parts of the population 
+
+that need our help the most are the least likely to get it. Those are the next problems that need to be solved, 
+
+and we™re ready to invest in meaningful solutions. 
+JORDAN NOF 
+Co-Founder & Managing Partner, 
+Tusk Venture Partners
+NY healthcare investments: 
+Alma, 
+Care/Of (acquired by Bayer), Ro, Tend
+Investors 
+to Know
+1415AS A COMPANY, WE COULDN™T BE 
+MORE LONG ON NEW YORK. 
+Our name 
+
+stems from the ˜rst company my roommate 
+
+and I operated out of our apartment, which was 
+
+on the corner of 30th and Madison. 
+STEVEN GUTENTAG 
+Co-Founder & CEO, Thirty Madison
+Why We 
+ New York
+New York endured a great deal of loss during 2020. 
+
+This included the death of Milton Glaser, the iconic 
+
+designer, who created the instantly recognizable I Love 
+
+New York logo. Here are just a few reasons why our 
+
+community will continue to build, support, and invest in 
+New York for years to come.
+NYC IS THE LARGEST HEALTHCARE 
+MARKET
+ in the US and has been the most active 
+metro area for digital health investment in 2020. 
+
+We have the investment dollars, infrastructure and 
+
+diversity of talent to build the leading digital health 
+ecosystem. We™re excited about all the activity right 
+in our backyard. 
+GRAHAM BROWN 
+Partner, Lerer Hippeau
+NEW YORK CONTINUES TO BE AN 
+
+EXCEPTIONAL PLACE
+ for innovationŠwith 
+the opening of signi˜cant amounts of new 
+
+laboratory space as well as the emergence of new 
+
+funds dedicated to the life sciences, we expect 
+the entrepreneurial wave to continue in a 
+signi˜cant fashion.
+JENNIFER HAWKS BLAND 
+CEO, NewYorkBIO
+AS A FOREIGNER, I CHOSE TO BUILD 
+
+MANTRA IN NYC 
+for its pool of tech and 
+
+healthcare talent, proximity to some of the largest 
+
+healthcare players in the US, and access to capital.  
+ED GAUSSEN
+CEO, Mantra Health
+NEW YORK IS STILL THE BEST CITY IN 
+
+THE WORLD TO MOVE FOR YOUNG 
+
+PEOPLE
+Šthe talent across all industries is 
+outstanding. It makes sense that technology 
+
+and e-commerce have come together with 
+healthcare to produce great companies. We 
+have a range of NYC companiesŠEzra, Ro, 
+
+Klara, Parsley Health, HubbleŠand will be long 
+
+on this sector and location. 
+RICK HEITZMANN 
+Partner, FirstMark Capital
+MDCALC BEGAN AS A SMALL PASSION 
+
+PROJECT
+ and has grown into the most broadly used 
+medical reference for practical evidence-based tools. 
+
+New York™s incredible healthcare communityŠand the 
+
+relationships we™ve builtŠhave allowed us to evolve in a 
+way that wouldn™t be possible in any other city.   
+JOSEPH HABBOUSHE, MD, MBA 
+Co-Founder & CEO, MDCalc
+16ONE OF THE CHALLENGES 
+ START-UPS
+ have is getting on the radar of 
+larger companies. We launched 
+PulsePoint 
+Data Lab
+ to make it easier for health data 
+start-ups to build, launch, and scale. Our 
+goal is to help these innovators with 
+resources like platform access, commercial 
+
+insights, business skills, legal counsel, and 
+
+network connections. We™re creating an 
+
+environment to support these companies in 
+
+achieving the better health outcomes that 
+
+we all talk about.
+SLOAN GAON 
+CEO, PulsePoint
+Building 
+Community
+When we founded NYCHBL in 2009, our goal was 
+ to build a healthcare ecosystem in New York. A 
+
+decade Œ and pandemic Œ later, that ecosystem has 
+
+become a community that supports, partners and 
+
+works together to drive success for its members. 
+Collaboration is truly King–and Queen.
+A COMMUNITY OF FEMALE FOUNDERS
+ is emerging in New York as well as a growing 
+number of start-ups focusing on women™s 
+
+health. It™s inspiring to see incumbent Kate 
+
+Ryder of Maven Clinic so willing to connect with 
+other female founders from Oula and Helania, 
+who are also building women™s health tech 
+
+start-ups.
+ADRIANNA SAMANIEGO 
+Investor, Female Founders Fund
+STELLAR HEALTH BRINGS PAYORS 
+AND PROVIDERS
+ together to deliver 
+
+value-based care. In 2020, we collaborated 
+
+with both Elderplan and Rayn IPA to improve 
+
+value-based delivery across NYC. Most 
+recently, we partnered with Excelsior 
+Integrated Medical Group in Lower Manhattan 
+
+to further improve the delivery system and 
+
+overall patient experience. New York has been 
+
+a great market for us.
+MICHAEL MENG 
+CEO, Stellar Health
+17NEW YORK IS FULL OF 
+INNOVATIVE, MISSION-DRIVEN 
+
+companies, and we are honored to 
+
+partner with several. These include Ro, 
+
+where we power the ﬁ˜nd in-person careﬂ 
+
+search; Bennie, where we™ve integrated 
+
+into their employee bene˜t navigation 
+
+system; and Particle Health, where we 
+
+make it easier for health systems and 
+
+health plans to comply with incoming 
+
+API regulations. 
+NATE MASLAK
+Co-Founder & CEO, 
+Ribbon Health
+ELEKTRA™S MISSION IS TO 
+ SMASH THE MENOPAUSE TABOO
+.  We work with mission-aligned partners to 
+raise awareness. To celebrate World 
+
+Menopause Month, we partnered with arfa™s 
+
+State ofŠa DTC menopause skincare brand 
+
+Što take over 
+menopause.com
+. The site was 
+featured on the Today Show! 
+JANNINE VERSI
+Co-Founder & COO, 
+Elektra Health
+WE LAUNCHED THE 
+MDCALC $1M 
+AD GRANTS PROGRAM
+ to recognize 
+the extraordinary efforts of those 
+
+supporting clinicians caring for COVID-19 
+
+patients. We selected four New York-based 
+
+companies whose work aligns with our core 
+
+mission to support providers and improve 
+
+healthcare: Bluestream Health, Lab˜nder, 
+
+Yosi Health, and Vesta Healthcare. 
+JOSEPH HABBOUSHE, MD, MBA
+Co-Founder & CEO, MDCalc
+Building 
+Community
+WE UNDERSTAND HOW DIFFICULT 
+IT IS 
+for digital health solutions to lock in 
+
+a pilot. We™ve developed a tight process 
+
+under 
+Vytalize Innovation Labs
+ that can 
+deploy solutions within weeks. We take 
+
+pride in the speed with which we™re able 
+ 
+to identify, partner, and execute on an 
+
+elegant solution that advances value-
+
+based care. 
+FARIS GHAWI
+CEO, Vytalize Health
+Powering 
+Through COVID
+Resiliency is the ability to not just survive, but to 
+actually thrive in the face of adversity. During the 
+
+COVID crisis, these leaders embodied that 
+
+characteristic in the ways they responded and 
+
+innovated, pivoting and expanding to meet the needs 
+of their customers Š and their own employees.
+WE LAUNCHED IN APRIL, 
+at the peak of 
+the ˜rst wave of COVID-19. We had to pivot 
+ our care delivery immediately, using a range of 
+
+technologies such as mobile pre-visit registration 
+
+and text messaging platforms to digitally 
+ screen our patients. We saw a dramatic spike 
+ in psychosocial needs such food insecurity, 
+
+˜nancial hardship, depression, and anxiety. We 
+
+worked closely with our community partners to 
+
+ensure that patients were connected to services 
+
+and supports.
+SUZETTE BROWN, MD, MPH
+Founder & COO, 
+ Strong Children Wellness
+OUR CORE BUSINESS IS
+ genomics-as-a-
+service, but we know PCR testing well. When 
+
+COVID struck, we responded quickly. We developed 
+
+a clinical study to test an at-home saliva test for 
+
+COVID-19, rapidly recruited patients and received 
+FDA approval (Emergency Use Authorization) in 
+June. It was a sprint but a great decision that 
+
+opened up new ways to work with employers and 
+
+individuals. The test was even featured on Dr. Oz.
+ALEXANDER BISIGNANO
+Co-Founder & CEO, Phosphorus
+OUR BUSINESS WAS BUILT FOR THIS 
+
+MOMENT
+Šwe just thought this moment was 
+going to happen 5 or 10 years from now. Millions 
+
+of people who had never experienced telemedicine 
+
+were introduced to it for the ˜rst time, creating 
+extreme demand for online healthcare visits. We 
+worked to make sure we had the infrastructure in 
+
+place to scale while still delivering an exceptional, 
+
+personalized experience. 
+STEVEN GUTENTAG 
+Co-Founder & CEO, Thirty Madison
+WE PRIORITIZED HEALTH AND SAFETY 
+
+FOR OUR TEAM
+Šnot just physical health, but 
+mental health too. To stay connected, we kicked 
+
+off a ton of events including morning meditation, 
+
+daily planking, and trivia nights. The pandemic 
+created a bit of a silver lining in that everybody 
+was home and navigating this dif˜cult moment 
+
+together, even when apart. People showed up 
+
+bringing their whole selves to work, not just their 
+
+work selves. And that™s how it should be. 
+MICHAEL CUNNION 
+CEO, Remedy Health Media
+18I HAD ONLY BEEN CEO FOR TWO WEEKS 
+when the pandemic forced us to work from home in 
+
+early March. My ˜rst priority was the health and 
+
+safety of my employees, but as their new leader I 
+
+also had to earn their trust. I sent every employee a 
+handwritten card letting them know I was thinking 
+about them and encouraging them to take care of 
+
+their own mental health during this unprecedented 
+
+time. Almost one year later, we saw employee 
+
+engagement increase and virtually no attrition.
+CARRIE SIUBUTT
+CEO, Simple Health
+Powering 
+Through COVID
+TO HELP OUR STAFF STAY BOTH 
+
+physically and mentally healthy, we embedded 
+
+one of our clinicians on the People team to 
+
+focus speci˜cally on our own employees. 
+ 
+We made changes such as more ˚exible 
+scheduling, additional vacation time, meeting-
+free days, and expanded mental health 
+
+bene˜ts and bene˜ts for parents and 
+
+guardians of young children. 
+ROBERT ACCORDINO, MD, MSC 
+Chief Mental Health Of˜cer, 
+ Quartet
+TELEMEDICINE PRESENTED AN 
+ENTIRELY NEW LANDSCAPE
+ for the vast 
+majority of physicians. We built our own video 
+
+visit platform from the ground up and began 
+
+onboarding and credentialing providers across 
+all 50 states, and we did it for free to help the 
+clinicians in a time of need.  
+MICHAEL BOTTA 
+Co-Founder, Sesame
+1920NYC Digital Health 100
+INSURANCE & HEALTH BENEFITS
+Well Being & Care Delivery
+ANALYTICS & INSIGHTS
+DIAGNOSTICS
+PROVIDER ENABLEMENT
+MENTAL HEALTH
+WOMEN™S HEALTH
+PATIENT ENGAGEMENT
+VIRTUAL CARE & COORDINATION
+Data & Platforms
+Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (ﬁDTTLﬂ), its network of 
+member ˜rms, and their related entities. DTTL and each of its member ˜rms are legally separate and independent entities. DTTL (also 
+referred to as ﬁDeloitte Globalﬂ) does not provide services to clients. In the United States, Deloitte refers to one or more of the US member 
+˜rms of DTTL, their related entities that operate using the ﬁDeloitteﬂ name in the United States and their respective af˜liates. Certain services 
+
+may not be available to attest clients under the rules and regulations of public accounting. Please see 
+www.deloitte.com/about
+ to learn more 
+about our global network of member ˜rms.
+21
+DELOITTE IS PLEASED TO SPONSOR NYCHBL 
+and would like to congratulate these leading 100 digital 
+innovators. Learn more about Deloitte 
+here
+.NYC Digital Health 100 Selection Process: To qualify for inclusion, the company must (1) maintain headquarters or 
+
+major of˜ce in New York region and (2) have raised at least a Series A round by 12/31/2020.
+AbleTo
+Aetion
+AiCure
+Alma
+andros
+BetterPT
+Blink Health
+Capital Rx
+Capsule
+
+Cecilia Health
+
+Cedar
+Centivo
+Cipher Health
+Cityblock Health
+Clarify Health
+Click Therapeutics
+Cohero Health
+Covera Health
+Cureatr
+
+DataCubed Health
+
+Eden Health
+Eligible
+elovee
+
+Extend Fertility
+
+Ezra
+Force Therapeutics
+Fruit Street Health
+
+Galileo
+
+H1Happify Health
+Headway
+
+Healthify
+
+HealthReveal
+Heartbeat Health
+Imagen Technologies
+K Health
+Kaden Health
+Kaia Health
+
+Kindbody
+
+Klara
+Koneksa Health
+LetsGetChecked
+
+Massive Bio
+
+Maven Clinic
+Mavencare
+MDCalc
+
+Medly Pharmacy
+
+Monument
+Nava
+Nomad Health
+
+Noom
+
+One Drop
+On-Sight Medical
+Opentrons
+
+Oscar Health
+Owkin
+Pager
+
+Paige
+
+Parachute Health
+Parsley Health
+Particle Health
+
+Phosphorus
+
+Prognos
+PWNHealth
+Quartet
+
+Rapid SOS
+
+ReferWell
+Ribbon Health
+Rightway Healthcare
+Risalto
+RoRubiconMD
+
+Rx.Health
+
+Sesame
+Shine
+Simple Health
+
+Smart Vision Labs
+
+Somatix
+Spring Health
+Stellar Health
+
+SWORD Health
+
+Talkspace
+Tempest
+Thirty Madison
+
+Tia
+
+TrialSpark
+Truveris
+TytoCare
+
+Unite Us
+Valera Health
+Vault Health
+
+Verana Health
+
+Vericred
+Vesta Healthcare
+VirtualHealth
+
+Vytalize Health
+
+Wellsheet
+Wellth
+Wellthy
+
+Zipari
+Copyright © 2021 New York City Health Business Leaders. All Rights Reserved.
+TIA IS ARCHITECTING A FUNDAMENTALLY NEW MODEL 
+OF CARE
+ for the most powerful customer in healthcare: women. 
+Our ﬁMedical homeﬂ model is both 
+integrated
+Šwe fuse gynecology, 
+primary care, mental health, acupuncture into a one-stop-shopŠand 
+
+integrative
+, considering the diagnosis, treatment and prevention of 
+the female patient through a lifestyle-centric, sex-speci˜c lens. 
+CAROLYN WITTE 
+Co-Founder & CEO, Tia
+CENTIVO IS A NEW TYPE OF 
+
+DIGITAL HEALTH PLAN SOLUTION 
+
+custom designed for self-funded 
+
+employers. They™re looking for three key 
+
+things: sustainable cost-savings, high-
+quality care for their employees, and a 
+plan that™s easy to use. We™re laser-
+
+focused on managing employer costs and 
+
+offer absolute ˜nancial transparency in 
+
+our fee structure. 
+ASHOK SUBRAMANIAN 
+Co-Founder & CEO, Centivo
+What Are Your 
+Super Powers?
+Often in healthcare we see start-ups offering a 
+
+solution in need of a problem. Then there are 
+
+companies developing products, services and 
+
+technologies that address real unmet needs. Meet a 
+
+few New York start-ups striving to make healthcare 
+more accessible, cost-effective and personalized.
+OUR MISSION AT EDEN HEALTH IS TO 
+CREATE A WORLD
+ where every person has a 
+
+relationship with a trusted healthcare provider. 
+
+We do this by delivering relationship-based 
+
+virtual care, seamless patient navigation, 
+comprehensive care coordination, and 
+integration of virtual and in-person care. 
+MATT MCCAMBRIDGE
+ Co-Founder & CEO, Eden Health
+22EVERYTHING WE DO IS BUILT 
+FOR HUMAN FIRST. 
+We use 
+
+technology and world-leading experts 
+
+to create experiences and solutions 
+
+that are tailored to people addressing 
+and managing their health issues. Our 
+platform rivals seeing a specialist in 
+
+person and encourages patients to 
+
+stay connected with the same 
+
+physician to build an ongoing 
+
+relationship. 
+STEVEN GUTENTAG
+Co-Founder & CEO, 
+ Thirty Madison
+What Are Your 
+Super Powers?
+FULL-BODY MRIS HAVE EXISTED 
+FOR A WHILE, 
+but the cost ranged 
+ 
+from $10,000 to $15,000. With Ezra, 
+ 
+we brought it down to $2,000 by using 
+
+software and building AI to make the scans 
+and interpretation faster. We™ve created a 
+way to screen for cancer that™s fast and 
+
+accurate, but we are still working to make it 
+
+more affordable. I dream of a future with a 
+
+$500 full-body scan. 
+EMI GAL 
+Co-Founder & CEO, Ezra
+ WE™RE HERE TO SERVE ALL 
+
+THOSE
+ who seek to build a family. 
+Kindbody provides end-to-end care, from 
+
+prepartum to return to work, for all. We 
+
+believe that fertility treatment should be 
+affordable and accessible to all, not just 
+the wealthy few. 
+GINA BARTASI
+  Founder & CEO, Kindbody
+PROVIDERS HAVE NEVER NEEDED 
+
+VALUE-BASED CARE MORE. 
+What 
+
+differentiates Vytalize is that we don™t silo 
+
+ourselves, we simply do what is needed to 
+
+improve health outcomes and lower costs. 
+ Our solution combines payer, provider, and 
+
+digital health, all-in-one because all of these 
+
+pieces are needed. 
+FARIS GHAWI 
+CEO, Vytalize Health
+23Can Telehealth be Saved from 
+Systemic Racism?
+Alongside COVID-19, America has been slowly acknowledging the public health crisis of racial 
+injustice. Even prior to COVID, structural racism had a devastating impact on healthcare, education, 
+
+employment, housing, and infrastructure in Black and Brown communities. Health outcomes have 
+
+lagged commensurately and dramatically. This is the house that COVID-19 entered. A house poorly 
+
+equipped, staffed and supported for routine healthcare. Telehealth doesn™t ˜x the larger problem. 
+
+Layered on top of our existing inadequate system, telehealth exacerbates the problem. Only 
+
+investment to combat the underlying system will allow telehealth to reach its true potential of 
+
+enhanced access to care.  
+Communities of color and low-income households are frequently confronted by a digital divide with 
+inadequate access to computers, high-bandwidth internet, and remote monitoring devices. While 64% 
+
+of households with an annual income of $100,000 or greater have access to a smartphone, desktop or 
+
+laptop computer, broadband internet, and a tablet, only 18% of households making less than $30,000 
+
+have the same access.
+The solution must then be multipronged. First, there needs to be awareness, understanding and 
+acceptance that systemic racism has massively contributed to the chronic underinvestment in the 
+
+healthcare system of our communities of color. Second, national and local plans must be developed, 
+
+tested and scaled to comprehensively address de˜ciencies and gaps. Finally, investment is necessary to 
+
+address fundamental gaps in the digital divide and infrastructure to support our community and safety 
+
+net health system. 
+Telehealth leaders cannot sit idly by waiting for broad infrastructure changes to come to fruition. As 
+an industry, we must develop programs and services which af˜rmatively combat structural racism and 
+
+ensure equitable access.
+In hope,
+ GIL ADDO
+Gil Addo
+Health 
+Equity
+ The pandemic highlighted the vast health disparities and 
+
+inequities that exist in the country, particularly for Black 
+
+and Brown communities. The move to virtual care only 
+
+exacerbated the problem, because not all people have 
+equal access to broadband and mobile technologies. 
+
+Healthcare and business leaders in New York are 
+
+identifying and developing new ways to close 
+ these gaps.
+Below is an edited portion of an 
+Open Letter
+ written by Gil Addo, CEO of RubiconMD in September 2020. He™s also 
+a member of 
+HT4M
+ (HealthTech4Medicaid) focused on bringing critical new technology to Medicaid enrollees.
+24AS THE PANDEMIC HIT, MOUNT SINAI™S 
+CARE MANAGEMENT TEAMS BEGAN 
+
+RECEIVING CALLS 
+from the community alerting 
+
+them to behavioral health issues such as increased 
+
+suicidality and anxiety. With in-person visits canceled 
+due to COVID, services were being provided virtually. 
+It soon became clear that many of the families lacked 
+
+broadband access, which prevented them from 
+
+getting care. 
+We realized that education had solved that problem 
+earlier in the spring by distributing Wi-Fi-enabled 
+
+devices, which gave us the idea to piggyback on their 
+
+infrastructure. We partnered with the Dream School, a 
+
+public charter school in East Harlem that serves about 
+
+1,200 children K-12. We heard from Dream that asthma 
+
+and behavioral health education were big priorities, so we 
+hosted online forums with primary care doctors and 
+specialists to not only provide education but allow 
+
+opportunity for families to ask questions directly to the 
+
+clinicians. We are working on additional projects with the 
+
+Dream School to empower families to use technology for 
+
+both medical and social care needs so that they gain 
+
+con˜dence in managing their care and the challenges 
+
+they face every day. 
+ROBERT FIELDS, MD
+SVP and Chief Medical Of˜cer of 
+ Population Health, 
+ Mount Sinai Health System
+THOUGH WE NEEDED NO 
+REMINDER, THIS PANDEMIC 
+
+CONTINUES
+ to show us all that the 
+people who will always suffer the most are 
+
+communities of color, folks with disabilities, 
+those who are LGBTQIA+, and people with 
+limited economic means. There are 110 
+
+million people in the US living in lower-
+
+income communities that desperately 
+ need better-integrated care. They need 
+ a revolution. And they need it now.  
+TOYIN AJAYI, MD
+Co-Founder & Chief Health Of˜cer, 
+Cityblock Health
+Health 
+Equity
+DURING COVID, SOME HEALTH PLANS 
+TEMPORARILY BEGAN TO PAY
+ for telehealth 
+
+visits on par with in-person care, but they only 
+
+reimbursed video visits, not care via telephone. Many 
+
+patients we see do not have access to video-enabled 
+devices and can™t use Zoom or Google Hangouts. The 
+notion of only reimbursing video speaks to the 
+
+underlying socioeconomic issues of access and equity. 
+ROBERT ACCORDINO, MD, MSC
+Chief Mental Health Of˜cer, Quartet
+25Mental 
+Health 
+2020 was the year conversations about depression, 
+anxiety and addiction went mainstream. People across 
+
+every demographic experienced isolation, loneliness 
+
+and depression, including children and teens. With 
+ one of the highest concentrations of therapists per 
+capita in the country, New York has long been a center 
+of mental health. Now it™s rapidly becoming the 
+epicenter of digital mental health, too. Clinicians and 
+
+entrepreneurs are introducing new models that address 
+
+age old problems of access, siloed care and lack of 
+
+insurance reimbursement.
+NEW YORK HAS A RICH AND STORIED 
+
+TRADITION IN MENTAL HEALTH 
+and 
+psychiatry dating back to Freud™s visit to 
+ 
+NYC in 1909. It™s no surprise that as health 
+
+technology has grown in NYC, an emphasis on 
+mental health start-ups has become evident. 
+I™ve spoken with many founders whose own 
+
+positive experiences with therapy prompted 
+
+them to try to use technology to make mental 
+
+health care more accessible for others.
+RAVI N. SHAH, MD, MBA 
+Founding Director, 
+ Columbia Mind Ventures 
+TIA HAS ALWAYS BELIEVED THAT 
+
+MENTAL HEALTH IS ﬁCOREﬂ TO 
+
+WOMEN™S HEALTH
+ and should be integrated 
+into a primary care, medical home model vs. 
+
+delivered in a siloŠboth due to the higher rates 
+of anxiety and depression in women, as well as 
+the many female-speci˜c behavioral healthcare 
+
+challenges like sexual trauma that all too many 
+
+women experience. 
+CAROLYN WITTE 
+Co-Founder & CEO, Tia
+PEOPLE ARE GOING TO CONTINUE 
+
+TO FEEL 
+more comfortable talking about 
+
+mental health, so we expect to see an 
+
+ongoing reduction in stigma over time. 
+ As the conversation around mental health 
+continues to grow and take shape, we™ll see 
+more organizations looking for solutions 
+
+that cover the full spectrum of mental 
+
+healthŠnot just one-size-˜ts-all solutions. 
+APRIL KOH 
+Co-Founder & CEO, Spring Health
+26WE™RE UNIQUE IN OUR USE OF 
+DATA AND ANALYTICS 
+to identify at 
+
+risk individuals and align each person™s 
+
+needs with a highly personalized program. 
+
+We™ve long believed that it™s important to 
+˜nd the right blend of human and digital 
+care to meet the needs of a complex and 
+
+heterogeneous group of mental health 
+
+patients, who may require different 
+
+interventions. Our longstanding focus on 
+
+outcomes has enabled us to prove the 
+
+impact on both physical and behavioral 
+
+health and overall cost of care.  
+REENA PANDE, MD
+  Chief Medical Of˜cer, AbleTo
+OUR UNIQUE ‚REVERSE™ INTEGRATED CARE 
+
+MODEL 
+is how SCW supports children and families 
+with complex medical, behavioral, and social needs. By 
+
+embedding primary care hubs into trusted community-
+
+based organizations that offer cross-disciplinary teams 
+of social service and mental health providers, we can 
+deliver care that is holistic, coordinated, and 
+
+community-engaged.
+NICOLE BROWN, MD, MPH
+ Founder & Chief Health Of˜cer, 
+ Strong Children Wellness
+OUR TRUE INNOVATION LIES IN OUR 
+ABILITY TO DECREASE THE COST
+ of 
+
+collaboration between on-campus care settings 
+
+and our virtual network of providers. Our 
+
+integrated telemental health programs improve 
+clinical outcomes and reduce time to access care 
+for universities of all sizes. 
+ED GAUSSEN
+CEO, Mantra Health
+Mental 
+Health
+ WE GREW OUT OF A NEED FOR 
+
+INTEGRATED CARE. 
+Typically, care of the 
+
+mind and body take place in different of˜ces 
+
+and different EMR systems. But we know that 
+
+the best care for patients combines physical and 
+mental health, and we™re solving for that 
+problem by creating care for the whole person, 
+
+under one virtual roof.
+ROBERT ACCORDINO, MD, MSC 
+Chief Mental Health Of˜cer, Quartet 
+2728AUD
+Alcohol Use 
+Disorder
+IInsomnia
+COMPANY
+DESCRIPTION
+CUSTOMERS
+CONDITIONS
+RAISED*
+Pioneer in delivering high-quality, outcomes-based mental health 
+care to improve behavioral and physical health and lower medical 
+costs. 
+Health Plans, 
+
+Employers
+ADS+$73M
+Matching platform for mental health providers and patients. 
+Offers administrative and marketing support to providers.
+Providers
+ADS+$14M
+Digital therapeutic platform that empowers users to improve 
+
+their mental and physical health.
+Employers, 
+ Health Plans
+ADS$46M
+Building national network of therapists who accept insurance.
+Health Plans, 
+
+Providers
+ADS+$32M
+Virtual Medication Assisted Treatment (vMATŽ) platform 
+provides online visits, group therapy, medication management. 
+Health Plans, 
+ 
+Health Systems 
+SUD
+$19M
+Telemental healthcare for students, integrating with universities™ 
+existing platform/system.
+Universities, Health 
+
+Plans, Consumers
+ADS$4M
+Platform (technology, content, space) that enables licensed 
+psychiatrists to administer guided ketamine therapy.
+Consumers
+ADS$4M
+Multiple locations throughout NY for same-day therapy and 
+medication management. 
+Health Plans, 
+
+Consumers
+ADS+$1.5M
+Online platform providing affordable medical treatment 
+(therapy, medication) and peer support for alcohol addiction.
+Consumers
+AUD
+$18M
+Virtual and in-person therapy, coaching, support groups, and 
+skills workshops.
+Health Plans, 
+
+Consumers
+ADS+$14.5M
+Online treatment for opioid dependence, based on medication-
+assisted treatment (MAT).
+Consumers
+SUD
+$3.5M
+Wellness supplements and sleep delivery solutions intended to 
+improve long-term sleep health. 
+Consumers
+I$9.5M
+Platform that makes it easier for people to get the best mental 
+health care for them.
+Health Plans, Health 
+
+Systems, Providers
+ADS+$155M
+Focused on mental wellbeing. Monthly membership includes 
+on-demand therapy pathways, tracking, events and roundtables.
+Consumers
+AS$6M
+Mental health bene˜ts platform for employers. Precision Mental 
+Healthcare model matches employee with care and dedicated 
+
+Care Navigator.
+Employers
+ADS+$106M
+Online therapy and psychiatric treatment through its network of 
+licensed therapists and prescribers.
+Consumers, 
+
+Employers, 
+ Health Plans
+ADS+$410M
+Personalized recovery plans for alcohol addiction. Provides 
+education, support, and community via membership model.
+Consumers
+AUD
+$14M
+Telemental health offering team-based care for coaching and 
+therapy, medication management and psychiatry.
+Employers, 
+ Health Systems, 
+
+Health Plans
+ADS+$11.5M
+NEW YORK
+Mental Health 
+Start-ups to Watch 
+With so many start-ups entering the space, it can be confusing to understand the different offerings. While this list is 
+not exhaustive, it represents a good cross-section of the companies within the ecosystem.
+* Based on Pitchbook data through 1/31/21.
+CONDITIONS KEY
+AAnxiety
+SStress
+SUD
+Substance 
+Use Disorder
++Multiple 
+Conditions
+DDepression
+29Q What are you expecting this year on 
+telemedicine legal and regulatory change? 
+A In the federal sphere, it is all about reimbursement. 
+Although we have been operating during the public 
+health emergency under very helpful waivers that 
+
+signi˜cantly expanded telemedicine coverage to Medicare 
+
+bene˜ciaries, post-emergency federal legislation will be 
+necessary to remove decades-old statutory limitations 
+ that narrowed Medicare telehealth to patients at certain 
+facilities in rural areas. Given recent policy activity and 
+
+Congressional hearings, stakeholders believe some 
+
+permanent legislative change on Medicare coverage is 
+
+possible in 2021. As to states (those with the primary 
+ legal authority over health provider regulation and thus 
+
+telemedicine), the annual legislative cycle kicked-off with a 
+
+running start on various telemedicine related topics Œ from 
+
+telehealth modality (e.g., video, audio-only, async) changes 
+proposed by some states to a focus on Medicaid coverage 
+of telehealth and cross-state licensure in others. So, 
+
+buckle-up, we are in for lots of telehealth policy in 2021! 
+Q Are you seeing expanded applications for 
+the use of telemedicine modalities beyond 
+clinical care? 
+AYes, indeed! In recent years, industry stakeholders 
+have increasingly pursued a range of ﬁdecentralizedﬂ, 
+ﬁremoteﬂ or ﬁvirtualﬂ clinical trial protocols, which involve 
+
+the leveraging of wearables and other remote data 
+
+gathering and communication technologies, together with 
+the deployment of home health personnel to perform 
+certain at home trial procedures. 
+These developments implicate both FDA and state 
+
+regulation for US state trials, and there has been broad 
+
+acknowledgment that further regulatory clarity is needed 
+
+going forward. In that regard, the onset of COVID in 
+
+2020 did provide impetus for FDA to issue guidance on 
+the conduct of trials remotely from traditional ﬁbrick and 
+mortarﬂ sites. FDA™s guidance provided numerous 
+
+recommendations for sponsors, investigators and IRBs 
+
+to consider for adapting ongoing trials or when 
+
+preparing for the launch of a new trial, during the 
+
+COVID-19 public health emergency, with subject safety 
+
+and data integrity being paramount considerations. 
+
+Among many other issues, FDA addresses the potential 
+
+use of telemedicine modalities for remote trial visits. 
+
+Other international regulatory authorities, including the 
+EMA and MHRA, also have issued guidance for the 
+conduct of clinical trials during the COVID-19 pandemic.
+Although certain COVID-19 related guidance may expire 
+at the end of the public health emergency, some may be 
+
+extended in one form or another. There is increasing 
+
+enthusiasm for the ˚exibility and ef˜ciencies associated 
+
+with at home clinical trial procedures, where appropriate. 
+
+For example, elderly or physically challenged subjects 
+
+and their caregivers may appreciate the option to 
+
+participate in clinical trials from home and 
+
+communicating with the study doctor through 
+videoconference. Telemedicine can also move forward 
+other important objectives, including increasing the 
+
+diversity of clinical trial participants to achieve greater 
+
+equity in health outcomes.
+HEALTHCARE REGULATORY 
+What™s in Store 
+For 2021?
+In 2020, swift regulatory changes helped make widespread adoption of telehealth and virtual 
+care possible. We sat down with Alexis Gilroy and Maureen Bennett, two legal experts at Jones 
+Day, to discuss the future regulatory landscape for these technologies in both care delivery and 
+clinical trials. For ongoing regulatory insights and tracking, subscribe to 
+Vital Signs
+, a quarterly 
+publication tracking the latest must-know information.
+ALEXIS GILROY 
+ Partner, Jones Day
+MAUREEN BENNETT
+ Partner, Jones Day
+Therapeutics 
+& Diagnostics
+ New York once again proved its position as leader in 
+therapeutics when P˜zer became the ˜rst company to 
+
+emerge with a vaccine for COVID-19. But smaller NYC 
+
+biotechs made equally important contributions. Some 
+
+leveraged their experience and pivoted to provide 
+immediate solutions such as face masks and at-home 
+testing. Others stayed focused on their core businesses 
+and found ways to adapt to the new remote reality. 
+
+Prevail Therapeutics ended the year with a great exit: 
+
+$1B sale to Lilly. Several companies went public, some 
+
+through traditional IPO like Schrodinger, Zentalis and 
+
+Delcath Systems, others through a SPAC merger like 
+Nuvation Bio and 180 Life Sciences.
+BIOTECH COMPANIES LIKE OURS 
+REQUIRE PHYSICAL LABS TO 
+
+GENERATE REVENUE
+, but we learned that 
+there were many ways to keep our employees 
+
+productive during the lockdown. For instance, 
+we began digging deeper into our datasets and 
+research syntheses, by which we were able to 
+
+improve our ef˜ciency. We™ll continue to do so 
+
+post-COVID. 
+MISTI USHIO, PHD 
+CEO, TARA Biosystems 
+IN THE WAKE OF THE PANDEMIC, 
+ NEW YORK
+ opened its arms to partner with 
+nimble companies that generated everything 
+
+from masks to diagnostic tests and even 
+
+therapeutics. This agile mindset will accelerate 
+NY™s attractiveness as a premier hub for 
+incubating and launching biotech companies 
+
+for years to come. 
+STACEY SELTZER 
+Partner, Aisling Capital
+WE LOOK SPECIFICALLY AT CONSTITUTIONAL 
+
+GENETICS
+ŠWHAT MAKES UP YOUR DNA
+Š  the genes you inherited from your parents. In most 
+
+specialties, physicians typically do not order a genetic 
+ test until you™re very sick due to lack of insurance 
+coverage for preventive screening. While many conditions 
+are avoidable, they™re generally not discovered until there™s 
+
+been an event. Our goal is to change the care paradigm 
+
+so that we screen everyone before there™s a problem.  
+ALEXANDER BISIGNANO 
+Co-Founder & CEO, Phosphorus 
+30THE RESPONSE TO COVID ACROSS NEW 
+YORK WAS AMAZING IN NEARLY EVERY 
+
+RESPECT. 
+Among the big successes in 
+diagnostics are New York companies like 
+
+Mirimus and DETECT by Homodeus, both of 
+which are operating at the forefront of test 
+development; and Sema4 and the New York 
+
+Genome Center, which are playing active roles in 
+
+both the discovery of genomic variants and 
+
+keeping the scienti˜c community current on 
+
+advancements in the ˜eld from across the globe.  
+JENNIFER HAWKS BLAND 
+CEO, NewYorkBIO 
+MANY SMALLER NY-BASED COMPANIES 
+
+QUICKLY REDEPLOYED THEIR ASSETS
+ and operations to address immediate needs 
+
+during the global pandemic. Shapeways in Long 
+
+Island City began 3D printing face shields, a 
+team from New Lab in Brooklyn developed a 
+low-cost bridge ventilator and Opentrons was 
+
+selected to run the Pandemic Response Lab, 
+
+dedicated to processing COVID-19 tests, at the 
+
+Alexandria Center. 
+MARIA GOTSCH
+President & CEO, 
+ Partnership Fund for New York City
+Therapeutics 
+& Diagnostics
+ THE SUCCESS WITH DEVELOPMENT 
+ OF THE CORONAVIRUS VACCINES
+ has 
+been simply remarkable. It™s brought both a 
+reputational boost, and a boost in overall 
+
+investments, and it has made it easier for small 
+companies like ours to raise the capital needed 
+to continue innovating.
+MATTHEW PRICE 
+Co-Founder & COO, 
+ Phosplatin Therapeutics
+3132Why have SPACs become 
+ so popular?
+We™ve always been big believers in 
+SPACs because you can use them 
+
+as a tool to bring companies public 
+
+earlier. SPACs allow you to marry 
+
+due diligence without a crossover 
+
+round before the IPO, leading to 
+
+less dilution for private companies. 
+
+In early 2020, I predicted there 
+
+would be six biotech SPACs, and 
+people thought I was crazy. Now as 
+of year-end, there are 34 
+
+healthcare-focused SPACs seeking 
+
+targets, 19 of those are biotech 
+
+speci˜c, four have announced 
+
+transactions, and six have closed.   
+And healthcare 
+ SPACs?
+Historically, SPACs were not 
+
+focused on healthcare, aside from 
+
+a handful of healthcare services. 
+
+An easy-to-understand business is 
+usually the best opportunity for 
+SPACsŠtraditionally that™s meant 
+consumer goods and industrials. 
+
+Now there™s an appetite for growth 
+
+stories, so biotech SPACs have 
+
+taken off. In particular, the Health 
+
+Sciences Acquisition Corp/
+Immunovant (IMVT) deal woke 
+people upŠthey started to realize 
+
+the potential in biotech. Now, lots 
+
+of SPACs are looking at digital 
+
+health and healthcare IT as well, 
+
+and I expect that to continue 
+ going forward.
+What™s one thing we should 
+
+know about Chardan?
+Chardan has established a 
+
+reputation for ﬁ˜nancing the frontier 
+
+of healthcareﬂ by focusing on 
+
+industry disruption and innovation. 
+Seventy percent of our focus is on 
+disruptive biotech sectors like 
+
+genetic medicines, cell therapy, and 
+
+microbiome medicines. We also see 
+
+potential in devices, diagnostics, 
+
+digital health, and other burgeoning 
+
+areasŠwe™re always looking for 
+
+growth companies with technology 
+
+or an asset that have the potential 
+to generate 5-10x investment 
+returns, by creating and sharing in 
+
+real value for society. 
+What are the advantages of 
+
+taking a company public via 
+ a SPAC?
+SPACs are ideally suited for 
+
+high-growth companies where it 
+ is important to be able to provide 
+
+growth forecasts which is not 
+
+permitted in regular IPOs. The 
+
+SPAC process permits a target 
+
+company to ˜rm up ˜nancing 
+
+before a public announcement. 
+
+Whereas in an IPO, on account of 
+
+having to ˜le terms publicly before 
+book building, targets are either 
+over-conservative in valuing 
+
+themselves or forced to publicly 
+
+accept a diminution in terms or, 
+
+worse, shelve the IPO after 
+
+conducting a public process. 
+ One can put together incentive 
+
+structures linked with future growth 
+
+which is not possible in an IPO. 
+Healthcare 
+SPACs
+ Special purchase acquisition companies (SPACs) exploded in popularity across all industries in 2020, and 
+
+healthcare was no exception. SPACs are an alternative to a traditional IPO in which a blank-check company (i.e. 
+
+SPAC) merges with a private business to form a publicly-traded entity. New York investors were part of this trend: 
+
+investment banks, hedge funds, private equity and venture capital ˜rms all created SPACs during the year.
+A signi˜cant transaction that helped catalyze the popularity of healthcare SPACs occurred in 2019, when New 
+York-based Immunovant merged with Health Sciences Acquisition Corp. Since its IPO, Immunovant has been one of 
+
+the top performers on the NASDAQ, delivering 4x returns to investors. 
+There are both advantages and drawbacks of SPACs relative to traditional IPOs. We spoke with three investors to 
+learn more about when and how SPACs work for emerging healthcare companies. 
+QQJONAS 
+GROSSMAN 
+ President, 
+ Chardan
+QQRAJIV SHUKLA
+ Chairman & CEO, 
+
+Alpha Healthcare 
+Acquisition Corp.
+33Which areas of healthcare are 
+most attractive for SPACs?
+Sectors where one is (a) experiencing 
+
+substantial disruptive growth i.e. the 
+
+investment thesis is future-oriented 
+
+thus more time is needed for 
+
+diligence (b) where there is 
+
+appreciable public/private arbitrage 
+
+(c) there are large private companies 
+
+with limited IPO windowsŠin the 
+
+past, device and diagnostic 
+companies have ˜t the bill. 
+What is your experience 
+ with SPACs?
+We closed a merger with DermTech 
+(DMTK), a molecular cancer 
+
+diagnostics company in 2019 which 
+
+is trading at 11x the transaction 
+ 
+price as of early February. We 
+
+recently announced a $1.1 billion 
+
+merger with Humacyte, a universally 
+
+implantable human tissue 
+
+regenerative medicine company 
+which has attracted signi˜cant 
+support from marquee investors.
+Why did you create Lux 
+
+Health Tech Acquisition Corp? 
+We felt the SPAC was a really good 
+
+way to disrupt healthcare and 
+
+technology. Our thesis is that a 
+funding gap exists across 
+healthcare technology which 
+
+impacts devices, digital health, lab 
+
+equipment, diagnostics and 
+
+telehealth. Biotech is less of a 
+
+focus because many other SPACs 
+
+are in that sector. In health tech, 
+
+many start-ups become tuck-in 
+
+acquisitions to the incumbent 
+companies, leaving a lot of 
+opportunity on the table. These 
+start-ups develop their ˜rst 
+
+application but don™t have the 
+
+capital to propel the business 
+
+further. That™s where we come in.  
+Why a SPAC vs. 
+ traditional IPO? 
+For the right company, SPACs 
+provide critical bene˜ts. Fundraising 
+is treated more similar to a private 
+
+raise than public company offering. 
+
+The investors are all having 
+
+conversations about the company™s 
+
+direction, which creates more 
+
+alignment. We think the SPAC is a 
+
+wonderful opportunity to provide 
+
+curated go-public experiences.
+What kind of companies do 
+
+you target? 
+We really like companies with 
+
+platform technologies. The ability 
+
+to scale those existing platforms 
+
+and develop or acquire content 
+providers is compelling. We also 
+like when a company™s core 
+
+technology can be extended into 
+
+other areas.
+ﬁOur thesis is that a 
+funding gap exists 
+across healthcare 
+technology which 
+impacts devices, digital 
+health, lab equipment, 
+diagnostics and 
+telehealth.ﬂ
+JOSH DEFONZO 
+ CEO, Lux Health Tech 
+ Acquisition Corp.
+QQQQMerged with Social Capital 
+Hedosophia Holdings Corp in 
+ $7.3B deal
+Merged with KBL Merger 
+Corp in $175M deal 
+Merged with Panacea 
+Acquisition in $1.3B deal
+Merged with Churchill 
+Capital Corp III in $11B deal
+A FEW RECENT EXAMPLES 
+OF REVERSE MERGERS IN 
+THE NEW YORK AREA:
+QJOSH DEFONZO 
+ CEO, Lux Health 
+Tech Acquisition 
+Corp.
+34THE SPEND ON MUSCULOSKELETAL 
+(MSK) ALONE 
+is approximately $200 billion 
+
+in the US and most of that care is delivered in 
+
+person. The nuance on how care is delivered in 
+
+certain verticals (like MSK for example) will 
+require platforms to be built for speci˜c 
+ use cases. As a signi˜cant amount of care 
+
+migrates from in person to virtual, there will 
+ 
+be enormous potential to create expansive 
+
+vertical-speci˜c platforms.
+RYAN DARNELL 
+Managing Partner, Max Ventures
+Where Will the 
+Money 
+Flow Next?
+It™s been said healthcare transformed more in ˜ve months 
+during COVID than it has in the past 10 years. Now that the 
+
+wheels are turning, and money is ˚owing, where will we see 
+
+new investment? What trends are on the horizon? These 
+
+leaders offer a look ahead.
+ONE OF THE MEGA-TRENDS WE™VE 
+
+SEEN OVER THE PAST 5-7 YEARS
+ is the 
+
+rise of direct-to-consumer healthcare. High-
+
+deductible plans are increasing, so people are 
+
+paying more out of pocket. As a result, they are 
+taking more control over their health, looking at 
+what they™re spending and why. COVID only 
+
+accelerated this trend. 
+RICK HEITZMANN 
+Partner, FirstMark Capital
+IN 2021 WE EXPECT TO SEE THE 
+
+PRACTICE OF MEDICINE EVOLVE 
+more to 
+
+precision medicine, enabled by the widespread 
+
+availability of molecular diagnostics. Key drivers 
+
+include increased access to and declining cost of 
+gene sequencing; new drug discoveries, and 
+real-world data on biomarkers that help match 
+
+patients to the best therapies.  
+CHARLES BOORADY
+Managing Partner, 
+ Health Catalyst Capital
+THE MARKET WILL INCREASINGLY 
+FAVOR TELEMEDICINE MODELS
+ that offer 
+full-stack digital services, including different 
+
+modalities of care, integrative and longitudinal care, 
+
+those focused on speci˜c verticals and life phases 
+(like menopause!) and chronic conditions.
+JANNINE VERSI 
+Co-Founder & COO, Elektra Health
+35THERE™S BEEN A SURGE IN DEMAND FOR MENTAL HEALTH 
+SUPPORT
+ as a result of COVID-19 and the events of 2020. The continued 
+growth and popularity of digital solutions will be a major trend, as more and 
+
+more organizations and individuals look for solutions that are both effective 
+
+and easy to access.
+APRIL KOH 
+Co-Founder & CEO, Spring Health
+FIVE YEARS FROM NOW I HOPE TO SEE ON-DEMAND, 
+
+PRECISION INSIGHTS
+ as ubiquitous in healthcare as the Bloomberg 
+Terminal is in banking. In 2021, we™ll see more organizations switch off 
+
+traditional, manual analytics reporting and move to highly automated 
+
+platforms that deliver precise, micro-level insights at lightning-fast speed. 
+JEAN DROUIN, MD 
+CEO, Clarify Health
+Where Will the Money 
+Flow Next?
+WE™RE LOOKING INTO THE 
+
+CONFLUENCE OF WOMEN™S HEALTH 
+
+AND AGING
+. Menopause is a $600 billion 
+marketplace. A lot of women have been 
+
+silently suffering, and we™re being thoughtful 
+about the problems and solutions for our 
+aging population. 
+ADRIANNA SAMANIEGO
+Investor, Female Founders Fund
+36On the 
+ Frontlines
+In December, NYCHBL hosted 
+Healthcare Rocks!
+, a virtual 
+concert honoring the heroes of 2020. It was a magical 
+night that included candid conversations with clinicians who 
+
+were on the frontlines battling COVID-19. We™ve captured 
+
+their re˚ections below and added several more. Their 
+strength, compassion and hope will inspire you.
+WHAT STOOD OUT THE MOST WAS 
+THE PANDEMIC
+ of racism that came out of 
+this pandemic. Disproportionately, Black and 
+
+Brown people have died from the pandemic, 
+
+not because of the virus itself, more because of 
+systematic racism. I work in a very poor 
+communityŠa level 1 trauma center in Brooklyn 
+
+Šand there are many institutional disparities. 
+
+Until we have these painful conversations that 
+
+racism is a public health issue, we™re not going 
+
+to move past this level of uncertainty.
+ARABIA MOLLETTE, MD 
+Emergency Medicine Physician, 
+ Brookdale University Hospital 
+WHEN THE PANDEMIC HIT IN MARCH,
+ Mount Sinai was one of the ˜rst hospitals to jump 
+into action, and many medical students joined in to 
+
+help. We organized one of the largest medical school 
+
+responses in the country in close partnership with 
+our hospital system, helping with everything from 
+coordinating PPE donations, triaging telehealth visits 
+
+to staf˜ng pharmacy sites and boosting our 
+
+COVID-19 testing capabilities.  
+SHERMAN LEUNG
+Medical Student, Icahn School of Medicine 
+ at Mount Sinai and Associate, 
+ AlleyCorp
+SERVING AS A FRONTLINE HCW 
+during 
+the ˜rst wave of the pandemic was a surreal 
+
+experience. I held patients™ hands while 
+
+increasing their oxygen, helped them FaceTime 
+
+with their families when visitors weren™t allowed 
+in, and provided rehab to patients as they took 
+their ˜rst steps after being on a ventilator for 
+
+weeks. We were driven by pure adrenaline to save 
+
+lives during the NYC surge.
+SARAH URKE, PT
+Acute Care Physical Therapist, 
+ NewYork-Presbyterian 
+AFTER 35 YEARS IN PRIVATE 
+PRACTICE, 
+I arrived as a volunteer at 
+Bellevue in April 2020. Being resolute in my 
+
+desire to do everything for each patient, I 
+
+mustered my energy to move the COVID-19 
+mountain. However, the virus was solid, alien, 
+unforgiving, and so deadly. For each patient, I 
+
+felt immeasurable sadness that I couldn™t do 
+
+more. I spent time with families hoping to be 
+
+of comfort. It reminded me that empathy, 
+
+humility, and kindness are vital in the care of 
+
+each patient, especially when we do not have 
+ a cure. 
+ANNETTE OSHER, MD
+Cardiologist
+SPECIAL FEATURE
+SPECIAL FEATURE
+IN MARCH, I WAS DEPLOYED IMMEDIATELY
+ to 
+Elmhurst, a city hospital, that operates on a shoestring budget 
+
+and is always at maximum capacity. Having hundreds of COVID 
+
+patients per day ˚ooding into the ER completely overwhelmed 
+
+their system. Elmhurst became the epicenter of the epicenter–
+While we saw a lot of suffering, we also witnessed some 
+incredible human resilience. Everybody in the hospital pulled 
+
+together with heroic effort, from the attendings in their sixties 
+
+and seventies, to med students and nurses, right down to the 
+
+cafeteria workers and janitors who didn™t miss a beat. 
+BEN GOLD, MD 
+Cardiology Fellow, 
+ Mount Sinai Health System 
+On The 
+Frontlines
+ONE OF THE FLOORS OF THE 
+
+CHILDREN™S HOSPITAL 
+was 
+
+converted for adults, to take care of 
+
+coronavirus patients. Many of us hadn™t 
+
+taken care of adult patients in close to 
+a decade, so we had to relearn adult 
+medicine. It was certainly a trying time 
+
+with more patient death than many of 
+
+us have seen in our careers. But there 
+
+was also so much humanity that came 
+
+into it. You saved patients, comforted 
+
+patients, and said goodbye to patients 
+
+when you needed to. We had the 
+ 
+best of outcomes and the worst of 
+
+outcomes, and you had to deal with 
+that as a physician. 
+RAY LORENZONI, MD 
+Fellow, Pediatric Cardiology, 
+ Children™s Hospital at Monte˜ore
+SINCE THE PANDEMIC STARTED 
+my role as a nurse 
+has changed. We now wear an invisible cape. Many see us 
+
+as heroes, but we are doing the work we are trained to doŠ
+
+taking care of people and saving lives. We saw the Navajo 
+
+come together to help protect elders and those most 
+vulnerable to COVID-19, as well as bring food, water, and 
+supplies to those in need. The courage and resiliency of the 
+
+workers on the frontlines when the pandemic hit were a 
+
+beacon of hope for what was to come.
+VIOLETA MICHEL, RN
+Pediatric Nurse, Navajo Nation, Indian Health 
+ Service in Shiprock, NM (raised in Manhattan)
+VOLUNTEERING AT THE BEGINNING OF THE PANDEMIC, 
+WE WORKED SIDE BY SIDE IN THE ICU. 
+We met health 
+
+care providers from around the country who came to NYC to ˜ght 
+
+this disease we knew so little about. We pooled our common 
+
+knowledge and learned medicine in real time. We grieved each 
+other™s losses and celebrated all the victories– including getting 
+married in late 2020!    
+ROSHINI MALANEY, DO
+ Cardiologist, Staten Island University Hospital, 
+Northwell Health
+VIRAL PATEL, MD
+ Founder and CEO, Radish Health
+37BY FAR THE BIGGEST LEARNING
+ is that 
+the success of any start-up lies within the quality 
+
+of the team. An A+ team will build an A+ 
+
+product; a B team will build a mediocre product. 
+EMI GAL 
+Co-Founder & CEO, Ezra
+The 
+Last Word
+OVER $250 BILLION OF ANNUAL HEALTH 
+
+CARE DELIVERY
+ is going to be shifted from 
+in-person to online soon. The underlying APIs and 
+
+technologies needed to accelerate digital adoption 
+
+and support the new virtual healthcare ecosystem 
+represent high-return opportunities for both 
+entrepreneurs and investors. 
+RYAN DARNELL 
+Managing Partner, Max Ventures
+WE ARE ON A MISSION TO 
+
+DEMOCRATIZE WOMEN™S HEALTH. 
+
+Everything we do is driven by giving women 
+
+access to care. There™s so much talk about 
+
+access, but not a lot of follow up. One of the key 
+things I™ve told my team, ﬁLet™s stop talking 
+about it and let™s just start doing it. 
+CARRIE SIUBUTT 
+CEO, Simple Health
+WE™VE ALWAYS HAD AN EMPHASIS ON 
+
+CULTURE
+Šour guiding principles are embedded 
+throughout the company. We™ve been a sourcing 
+
+and staf˜ng machine from day one. In 2020, we 
+
+had over 13,000 applicants and hired 119 people, 
+less than 1%. My belief is that you never 
+compromise on hiring. 
+MARK NATHAN
+Founder & CEO, Zipari
+THE MOST IMPORTANT THING
+ TO 
+UNDERSTAND IN THE U.S. HEALTHCARE 
+
+SYSTEM
+ is ﬁWho pays?ﬂ and ﬁWho are you 
+providing value to?ﬂ Often those are different 
+
+entities. If you con˚ate the two, it™s dif˜cult to be 
+successful, so it™s necessary to ˜nd approaches 
+that begin to merge those two interests.
+MATT MCCAMBRIDGE 
+Co-Founder & CEO, Eden Health
+IN 2020 WE SAW OUR NOTORIOUSLY 
+
+CONSERVATIVE INDUSTRY ADOPT 
+
+TECHNOLOGY AND ANALYTICS
+ with 
+unprecedented speed. In record time, providers 
+
+switched to televisits, health plans remodeled 
+their forecasts, and pharma companies developed 
+vaccines. It makes me hopeful that we have reset 
+
+the trajectory of innovation and adoption of 
+
+technology and analytics in healthcare for good.
+JEAN DROUIN, MD
+CEO, Clarify Health
+3839
+SURVEY METHODOLOGY 
+Data used in the creation of this report was 
+obtained from a variety of sources including but 
+
+not limited to company press releases, EDGAR 
+
+˜lings, Crunchbase, Pitchbook, CB Insights and 
+
+covered the period from 01/01/2020 to 
+
+12/31/2020. A company was included if it (1) listed 
+
+New York City as its corporate headquarters or a 
+
+major of˜ce (2) the company received seed, angel, 
+
+early-stage or late-stage funding of at least $1M 
+
+during the period 01/01/2020 to 12/31/2020. 
+
+Deal date was used to determine placement in 
+
+2020. Companies that won grant funding, prize 
+
+money or acceptance into accelerators/incubators 
+
+were not included in the analysis nor companies 
+
+that received less than $1M in total funding.
+DISCLAIMER
+This report is provided for informational purposes 
+only. Where possible, we veri˜ed information 
+
+obtained through publicly-available sources 
+ (e.g. company press releases, news reports). If you 
+
+˜nd an error in the report, please contact us at 
+
+info@nychbl.com
+ so that we can correct it.
+TEAM AND METHODOLOGY
+ASSOCIATE EDITORS
+STEPHEN TODRES 
+ MBA Student
+ Columbia Business School
+CONTRIBUTORS
+MANRAJ SINGH 
+ MBA Student
+ Columbia Business School
+BUNNY ELLERIN
+ Co-Founder & CEO
+ NYC Health Business Leaders
+EDITOR
+SKYLER COHEN, MSN, RN
+  MBA Student
+ Columbia Business School
+ANDREW LUO
+ MD/MBA Student
+ Penn State College of Medicine and 
+Columbia Business School
+SARAH DU 
+ Venture Fellow
+ Pear VC and Politics & CS Student 
+Princeton University
+GET IN TOUCH
+Follow us: 
+@nychbl
+Visit us: 
+www.nychbl.com
+ABOUT 
+NYC HEALTH BUSINESS LEADERS
+We are a professional community of 4,500+ 
+entrepreneurs, executives, investors and 
+
+clinicians who are leading, innovating and 
+
+driving healthcare forward. Over the past 
+
+decade, NYCHBL has helped transform New 
+York into an epicenter of healthcare 
+innovation.
+ OUR MISSION
+Increase the visibility
+ of New York as a 
+thriving center of healthcare innovation. 
+Encourage communication 
+across healthcare 
+sectors to break down silos and foster 
+collaboration. 
+Provide healthcare leaders with access
+ to 
+thought-provoking ideas and people to 
+further their careers and businesses. 
+Copyright © 2021 New York City Health Business Leaders. All Rights Reserved.
+40
